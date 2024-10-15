@@ -12,6 +12,8 @@ This project demonstrates how to create and manage EC2 instances in different en
 - Two EC2 instances were launched: one for production and one for development.
 ![image alt]( https://github.com/ris21/Cloud-security-using-AWS-IAM/blob/main/EC2%20Instances.PNG)
 - Tags were added to categorize the environments (`production` and `development`).
+  ![image alt]( https://github.com/ris21/Cloud-security-using-AWS-IAM/blob/872fc5a88902f90d943216e393f5efbbd514723d/prod.%20tag%202.PNG)
+![image alt](https://github.com/ris21/Cloud-security-using-AWS-IAM/blob/872fc5a88902f90d943216e393f5efbbd514723d/dev.%20tag%202.PNG)
 - Instances were created using free-tier eligible options to minimize costs.
 
 ### 2. Create an IAM Policy
