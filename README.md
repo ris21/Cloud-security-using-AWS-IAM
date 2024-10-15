@@ -19,6 +19,7 @@ This project demonstrates how to create and manage EC2 instances in different en
 ### 2. Create an IAM Policy
 
 - A custom IAM policy was created to allow EC2 instance operations (e.g., starting, stopping) for instances tagged as `development`.
+  ![image alt](https://github.com/ris21/Cloud-security-using-AWS-IAM/blob/7798c2bcfe48e23c1a129e75f9b69a4088b33bb4/json%20policy.PNG)
 - The policy denies the creation or deletion of tags on any instances.
 - JSON Policy used:
 
