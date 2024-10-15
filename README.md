@@ -63,7 +63,10 @@ This project demonstrates how to create and manage EC2 instances in different en
 ### 4. Create IAM Users and User Groups
 
 - A user group `dev-group` was created and the custom policy `developmentpolicy` was attached.
+![image alt]( https://github.com/ris21/Cloud-security-using-AWS-IAM/blob/4e3fc54cbed0ac5be37b5a256e114c77d48d16f0/dev%20grp.PNG)
+  
 - A new user `dev-rispar` was created and added to the group.
+![image alt](https://github.com/ris21/Cloud-security-using-AWS-IAM/blob/4e3fc54cbed0ac5be37b5a256e114c77d48d16f0/dev-rispar%20user%20create.PNG)
 
 ### 5. Test User Access
 
