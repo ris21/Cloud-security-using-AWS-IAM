@@ -10,6 +10,7 @@ This project demonstrates how to create and manage EC2 instances in different en
 ### 1. Launch EC2 Instances with Tags
 
 - Two EC2 instances were launched: one for production and one for development.
+![image alt]( https://github.com/ris21/Cloud-security-using-AWS-IAM/blob/main/EC2%20Instances.PNG)
 - Tags were added to categorize the environments (`production` and `development`).
 - Instances were created using free-tier eligible options to minimize costs.
 
