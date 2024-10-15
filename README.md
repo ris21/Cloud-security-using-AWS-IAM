@@ -57,6 +57,8 @@ This project demonstrates how to create and manage EC2 instances in different en
 ### 3. Create an AWS Account Alias
 
 - An account alias `alias-rispar` was created to simplify the AWS login URL for new users.
+ ![image alt]( https://github.com/ris21/Cloud-security-using-AWS-IAM/blob/4e3fc54cbed0ac5be37b5a256e114c77d48d16f0/alias.PNG)
+![image alt](https://github.com/ris21/Cloud-security-using-AWS-IAM/blob/4e3fc54cbed0ac5be37b5a256e114c77d48d16f0/console%20sign-in.PNG)
 
 ### 4. Create IAM Users and User Groups
 
