@@ -69,7 +69,10 @@ This project demonstrates how to create and manage EC2 instances in different en
 ![image alt](https://github.com/ris21/Cloud-security-using-AWS-IAM/blob/4e3fc54cbed0ac5be37b5a256e114c77d48d16f0/dev-rispar%20user%20create.PNG)
 
 ### 5. Test User Access
-
+- The alias account 'alias-rispar' logged in to the the new account using the login URL for new users.
+![image alt](https://github.com/ris21/Cloud-security-using-AWS-IAM/blob/2d00bc9484c976443a3611813d27fda36f7fce4f/new%20user%20acc%20login.PNG)
 - The new user attempted to stop the production EC2 instance but was denied due to the policy restrictions.
+  ![image alt](https://github.com/ris21/Cloud-security-using-AWS-IAM/blob/2d00bc9484c976443a3611813d27fda36f7fce4f/prod%20instance%20stop.PNG)
 - The policy worked as expected by allowing actions only on development instances.
+  ![image alt](https://github.com/ris21/Cloud-security-using-AWS-IAM/blob/2d00bc9484c976443a3611813d27fda36f7fce4f/dev%20instance%20stop.PNG)
 
