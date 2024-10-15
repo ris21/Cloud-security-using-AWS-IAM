@@ -52,7 +52,8 @@ This project demonstrates how to create and manage EC2 instances in different en
         }    
       ] 
     }
-    ```
+
+![image alt]( https://github.com/ris21/Cloud-security-using-AWS-IAM/blob/be0d0a77307fd2a57c7d147a67cf41f61bdffed4/dev%20policy%202.PNG)
 
 ### 3. Create an AWS Account Alias
 
