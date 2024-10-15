@@ -1,2 +1,2 @@
 # Cloud-security-using-AWS-IAM
-AWS project focused on cloud security using IAM, specifically tailored to manage user groups and their relationships with EC2 instances for both development and production environments. 
+AWS Cloud Security with IAM: Managing User Groups and EC2 Instances for Development and Production environments
